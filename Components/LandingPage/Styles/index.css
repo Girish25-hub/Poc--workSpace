@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.main{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+.header{
+    padding-top: 5px;
+    background-image:linear-gradient(rgb(83,19,127),rgb(213,11,132)) ;
+}
+.container{
+    height: auto;
+    padding: 10x;
+}
