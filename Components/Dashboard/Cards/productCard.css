@@ -1,0 +1,29 @@
+.Input-Search{
+    background-color:whitesmoke ;
+    width: 50%;
+    border-radius: 5px;
+    height:1.5rem;
+    box-shadow: 0px 0px 8px #ddd;
+    display: flex;
+    align-items: center;
+}
+input {
+background-color:transparent;
+/* border: none; */
+padding: 0 15px;
+border-radius: 5px;
+height: 100%;
+font-size: .75rem;
+width: 100%;
+margin-left: 5px;
+}
+/* input :focus{
+    outline:blue
+} */
+ .tagg{
+    height: 25px;
+    width: 75px;
+    background-color: black;
+   
+
+ }
